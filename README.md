@@ -1,3 +1,2 @@
 # hello-world
-My first repository
 Mary here! I am a francophile and cat lover. I get super excited when I meet francophile cats and have often wondered if I can teach my own cats to be bilingual... 
